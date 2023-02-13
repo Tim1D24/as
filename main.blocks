@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="(ZrBU^9?Jq)sp3OLEZBf">sprite</variable></variables><block type="pxt-on-start" id="5nAkHt2=]XE|Lps`tt7v" x="-233" y="-368"></block><block type="device_forever" id="LVox47xH1?Y}Ug2RRpSF" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="MMJZo@`]-,ZAtz3U96kN"><field name="LEDS">`
+        . # . . # 
+        . # # # # 
+        # # # . # 
+        # . # # # 
+        # # # # #
+        `</field></block></statement></block><block type="basic_show_icon" id="X+R+eFk~$S[m3Ii/3F8y" disabled="true" x="535" y="227"><field name="i">IconNames.SmallHeart</field><next><block type="device_pause" id="vQq]0[!Y(XT@TlIqkea[" disabled="true"><value name="pause"><shadow type="timePicker" id="I)cFkxZ-*6zB+Io?7MT?" disabled="true"><field name="ms">200</field></shadow></value><next><block type="basic_show_icon" id="ps*,MK+;}IqRwhT-bQ=s" disabled="true"><field name="i">IconNames.Heart</field><next><block type="device_pause" id="$|~-7}FHFFQ;h6NM3%%o" disabled="true"><value name="pause"><shadow type="timePicker" id="CO8vzJ]:JsK:hX9VS-4m" disabled="true"><field name="ms">200</field></shadow></value></block></next></block></next></block></next></block><block type="device_show_leds" id=")2Np7y2M!Z9#Kk*g};|F" disabled="true" x="239" y="254"><field name="LEDS">`
+        # . # # # 
+        . # # # # 
+        # # # # # 
+        # . # . # 
+        . # # # .
+        `</field></block><block type="device_show_image_offset" id="e,wc9(xBhdhwwl0LzWI1" disabled="true" x="-322" y="334"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><value name="sprite"><block type="device_build_image" id="9xz+7+_)Z[#g(u9fKgv:" disabled="true"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        # # # # # 
+        . # # # .
+        `</field></block></value><value name="offset"><shadow type="math_number" id=";9pvAJPqpp*Ao4Km4E:O" disabled="true"><field name="NUM">0</field></shadow></value><value name="interval"><shadow type="math_number" id="$Wy`ZHE=tkRX[EHB.?#1" disabled="true"><field name="NUM">400</field></shadow></value></block></xml>
